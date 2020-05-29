@@ -1,8 +1,8 @@
 ---
-title: Systèmes de Numération
+title: 1 Systèmes de Numération
 description: 
 published: true
-date: 2020-05-29T20:21:17.500Z
+date: 2020-05-29T22:14:55.220Z
 tags: 
 ---
 
