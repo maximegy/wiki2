@@ -2,7 +2,7 @@
 title: 5 Adressage IPv4
 description: 
 published: true
-date: 2020-05-29T22:19:01.929Z
+date: 2020-05-29T22:19:17.401Z
 tags: 
 ---
 
