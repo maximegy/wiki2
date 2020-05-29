@@ -1,8 +1,8 @@
 ---
-title: Adressage IPv4
+title: 5 Adressage IPv4
 description: 
 published: true
-date: 2020-05-29T22:18:27.510Z
+date: 2020-05-29T22:19:01.929Z
 tags: 
 ---
 
